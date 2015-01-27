@@ -1,18 +1,18 @@
 Homebrew-personal
 =================
-This repository contains my personal [Homebrew][home] formulae.
+This repository contains [Homebrew][home] formulae that are needed for the setupScript.
 
 How do I install these formulae?
 --------------------------------
-Just `brew tap bw-mike-pappas/personal` and then `brew install <formula>`.
+Just `brew tap bw-mike-pappas/setupScript` and then `brew install <formula>`.
 
 If the formula conflicts with one from mxcl/master or another tap, you can do
-`brew install bw-mike-pappas/personal/<formula>`.
+`brew install bw-mike-pappas/setupScript/<formula>`.
 
 You can also install via URL:
 
 ```
-brew install https://raw.github.com/Homebrew/bw-mike-pappas-personal/master/<formula>.rb
+brew install https://raw.github.com/Homebrew/bw-mike-pappas-setupScript/master/<formula>.rb
 ```
 
 Docs
